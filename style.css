@@ -1,0 +1,48 @@
+boby {
+    color:blueviolet(198, 8, 245);
+    background: #222;
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px rgb(red, green, blue);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(red, green, blue);
+}
+
+.chamada{
+    background: rgb(red, green, blue);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+footer{
+    background-color: #222;
+    color: rgb(red, green, blue);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3 px;
+    
+}
